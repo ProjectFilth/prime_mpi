@@ -1,1 +1,1 @@
-# prime_mpi https://www.csee.umbc.edu/~tsimo1/CMSC483/cs220/code/primes/mpi_primes_sort.c
+# prime_mpi https://computing.llnl.gov/tutorials/mpi/samples/C/mpi_prime.c
